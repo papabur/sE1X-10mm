@@ -19,5 +19,7 @@ I have made a new BoM for the sE1X broke down into 3 sections: Hardware - Printe
 below.
 
 Hardware and total costs: https://goo.gl/y2NCM3
-Printed Parts:            https://goo.gl/6m1081
+
+Printed Parts:            https://goo.gl/c972AP
+
 Fasteners:                https://goo.gl/F7yG47
