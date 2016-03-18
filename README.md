@@ -11,9 +11,13 @@ seemed to be roughly 2mm shy in the Y axis direction and I could not get the smo
 those, worked perfectly for me. Second, The added height from the 10mm smooth rods required a larger Y belt gripper, so I
 made a padded version that adds 5mm to it so the belt runs smoothly.
 
-I am selling kits of the sE1X on the Mobious website and will also be selling Crunch filament, along with SMoothieboards.
+I am selling kits of the sE1X on the Mobious website and will also be selling Crunch filament, along with MKS Sbase v1.2 smoothie-compatible control boards.
 
 If your interested please visit http://mobious.org for more information.
+
+(2016-03-18)UPDATE: 
+1: Now featuring the Open X and the Open Y carriage designs that utilize 605zz bearings at 45 degree angles around a 10mm smooth rod for the smoothest ride imaginable!@
+2: DUAL EXTRUDER VERSION NOW AVAILABLE!
 
 I have made a new BoM for the sE1X broke down into 3 sections: Hardware - Printed Parts - Fasteners. I will have links
 below.
